@@ -1,6 +1,3 @@
-spring:
- application:
-    name: HOTEL-SERVICE-config
 
 eureka:
   instance:
